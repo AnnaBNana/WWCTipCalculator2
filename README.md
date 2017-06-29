@@ -1,4 +1,4 @@
-# WWCTipCalculator
+# WWCTipCalculator2
 Adding the functionality of our tip calculator
 
 Things to consider: Data types!
